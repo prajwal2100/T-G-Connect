@@ -1,0 +1,20 @@
+[
+  {
+    "ver_name": "TrendLine 1.0L (P)",
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "price": 10000
+  },
+  {
+    "ver_name": "ComfortLine 1.0 (P)",
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "price": 20000
+  },
+  {
+    "ver_name": "TrendLine 1.5(D)",
+    "fuel_type": "Disel",
+    "transmission": "Manual",
+    "price": 20000
+  }
+]
